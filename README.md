@@ -7,8 +7,7 @@
 
 
 <h2>🏫 Education:</h2>
-  - General Certificate of Secondary Education (GCSE)
-  - General Certificate of Education (GCE)
+  - General Certificate of Secondary Education (GCSE) and General Certificate of Education (GCE)
 
 
 <h2> 🤳 Connect with me:</h2>
