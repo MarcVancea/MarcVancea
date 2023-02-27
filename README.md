@@ -4,6 +4,8 @@
 
 - <b>Webflow projects</b>
   - [Blanes Boats re-design](https://blanes-boats.webflow.io)
+  - [LifeHouse Church](https://lifehouse-chruch.webflow.io/)
+  - [MrFox book site](https://mr-fox.webflow.io/)
 
 
 <h2>🏫 Education:</h2>
