@@ -6,6 +6,7 @@
   - [Blanes Boats re-design](https://blanes-boats.webflow.io)
   - [LifeHouse Church](https://lifehouse-chruch.webflow.io/)
   - [MrFox book site](https://mr-fox.webflow.io/)
+  - [Marc Vancea Freelancer site](https://freelancer-marcvancea.netlify.app/)
 
 
 <h2>🏫 Education:</h2>
