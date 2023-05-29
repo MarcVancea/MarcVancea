@@ -6,6 +6,8 @@
   - [Blanes Boats re-design](https://blanes-boats.webflow.io)
   - [LifeHouse Church](https://lifehouse-chruch.webflow.io/)
   - [MrFox book site](https://mr-fox.webflow.io/)
+
+- <b>Other projects</b>
   - [Marc Vancea Freelancer site](https://freelancer-marcvancea.netlify.app/)
   - [FrontEndStore](https://frontendstore-marcvancea.netlify.app/)
 
