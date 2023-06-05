@@ -10,7 +10,7 @@
 - <b>Other projects</b>
   - [Marc Vancea Freelancer site](https://freelancer-marcvancea.netlify.app/)
   - [FrontEndStore](https://frontendstore-marcvancea.netlify.app/)
-  - [BlogDeCafé](https://https://blogdecafe-marcvancea.netlify.app/)
+  - [BlogDeCafé](https://blogdecafe-marcvancea.netlify.app/)
 
 
 <h2>🏫 Education:</h2>
