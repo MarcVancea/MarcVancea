@@ -15,6 +15,7 @@
 
 <h2>🏫 Education:</h2>
   - General Certificate of Secondary Education (GCSE) and General Certificate of Education (GCE)
+  - Advanced Vocational Training Diploma in Web Application Development
 
 
 <h2> 🤳 Connect with me:</h2>
